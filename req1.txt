@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+langdetect
+googletrans==4.0.0rc1
+gTTS
+pyttsx3
+PyPDF2
+sumy
+python-multipart

@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langdetect==1.0.9
+googletrans==4.0.0rc1
+gTTS==2.5.1
+PyPDF2==3.0.1
